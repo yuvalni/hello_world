@@ -1,2 +1,3 @@
 import world
-print('hello world')
+string = 'hello world'
+print(string)
